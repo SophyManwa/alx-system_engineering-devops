@@ -1,1 +1,1 @@
-System engineering Devops projects in the ALX Program. They Include:
+System engineering Devops projects in the ALX Program.
